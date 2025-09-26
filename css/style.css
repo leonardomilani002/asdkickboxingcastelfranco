@@ -211,7 +211,7 @@ ul{
 
 
 
- @media only screen and (min-width: 650px) {
+ @media only screen and (max-width: 650px) {
 
     nav{
         height: 60px;
@@ -242,7 +242,7 @@ ul{
     }
 
     #kickboxing{
-        font-size:48px;
+        font-size:40px;
         font-weight: 1000;
         margin-top:0;
         margin-bottom:10px;
