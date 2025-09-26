@@ -211,7 +211,7 @@ ul{
 
 
 
- @media only screen and (max-width: 650px) {
+ @media only screen and (min-width: 650px) {
 
     nav{
         height: 60px;
